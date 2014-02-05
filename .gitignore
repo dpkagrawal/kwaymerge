@@ -1,0 +1,14 @@
+_Store
+
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Eclipse project files
+.classpath
+.project
+.settings
